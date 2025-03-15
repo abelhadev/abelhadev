@@ -2,8 +2,6 @@
 ### As busy as a bee
 Sou Ana Luiza (também conhecida como Abelha) e sou uma entry-level data analyst.
 
-![Estatísticas do GitHub de Abelhadev](https://github-readme-stats.vercel.app/api?username=abelhadev&show_icons=true&theme=yellow-dark)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=abelhadev&layout=compact&theme=yellow-dark) 
 
 🐝Estou atualmente trabalhando em:
