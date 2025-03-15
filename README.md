@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá👋
+### As busy as a bee
+Sou Ana Luiza (também conhecida como Abelha) e sou uma entry-level data analyst.
 
-<!--
-**abelhadev/abelhadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐝Estou atualmente trabalhando em:
+- Bootcamp Campus Expert
+- Heineken: Inteligência Artificial aplicada à dados com a Copilot
+- Aumentar meu nível em python, análise de dados e Java
 
-Here are some ideas to get you started:
+🐝Meu perfil na DIO:
+- https://www.dio.me/users/abelhadev12253
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐝Meu artigo:
+- https://www.dio.me/articles/5-passos-para-a-sua-primeira-analise-de-dados-b25889cce787
